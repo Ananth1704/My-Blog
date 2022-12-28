@@ -1,0 +1,25 @@
+#contact iframe
+{
+    width: 100%;
+}
+.maindiv{
+    border:1px solid green  ;
+    
+}
+.maindiv img { 
+width:100% ;
+}
+.maindiv h5,.maindiv p{
+    margin: 20px; 
+}
+.movie-head {
+   padding:5px ;
+   border-radius:  5px;
+   margin-bottom:20px ;  
+}
+.movie-head i {
+    float: right;
+}
+.movie-text span {
+    color: rgb(249, 241, 5);
+}
